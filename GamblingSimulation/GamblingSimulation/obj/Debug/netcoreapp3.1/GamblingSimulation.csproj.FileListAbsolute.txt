@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.exe
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.deps.json
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.dll
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.pdb
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.dll
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.pdb
+C:\Users\Lenovo\Desktop\Gambling Problem\GamblingSimulation\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.genruntimeconfig.cache
